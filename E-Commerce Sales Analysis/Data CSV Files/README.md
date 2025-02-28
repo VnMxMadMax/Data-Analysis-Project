@@ -1,0 +1,1 @@
+**Ecommerce_sales_analysis(DataSet File) is the original file that i used for Analysis & all other files are created by me using MySQL than i merge all the files and created E_Commerce_Sales_SQL_Final_File that have all the files and output files**
