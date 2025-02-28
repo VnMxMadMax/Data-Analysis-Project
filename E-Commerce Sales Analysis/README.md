@@ -50,6 +50,6 @@ The dataset includes:
 - Deploy an interactive web-based visualization.
 
 ## 📧 Contact
-For queries, reach out via hammadurrahman171@gmail.com](mailto:hammadurrahman171@gmail.com.com).
+For queries, reach out via hammadurrahman171@gmail.com](mailto:hammadurrahman171@gmail.com).
 
 ---
