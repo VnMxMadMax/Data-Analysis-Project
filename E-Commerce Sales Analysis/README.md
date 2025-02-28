@@ -39,7 +39,7 @@ The dataset includes:
 ## 🔗 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/E-Commerce-Sales-Analysis.git
+   git clone https://github.com/VnMxMadMax/Data-Analysis-Project.git
    ```
 2. Open the SQL queries to analyze the data.
 3. Run the Python scripts for deeper insights.
@@ -47,11 +47,9 @@ The dataset includes:
 
 ## 📜 Future Improvements
 - Integrate predictive analysis using Machine Learning.
-- Add customer segmentation & retention analysis.
 - Deploy an interactive web-based visualization.
 
 ## 📧 Contact
-For queries, reach out via [your-email@example.com](mailto:your-email@example.com).
+For queries, reach out via hammadurrahman171@gmail.com](mailto:hammadurrahman171@gmail.com.com).
 
 ---
-**📌 Note:** Replace `dashboard.png` with your actual dashboard image and `your-username` with your GitHub username.
