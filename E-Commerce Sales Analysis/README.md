@@ -9,7 +9,7 @@ This project analyzes e-commerce sales data using SQL, Python, and Power BI. The
 - **Power BI** – Interactive dashboard
 
 ## 🔍 Data Source
-The dataset i used for the analysis is E-commerce Sales Analysis DatsSet here is the direct link of the data set -> https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis/data
+The dataset i used for the analysis is E-commerce Sales Analysis Datsset here is the direct link of the data set -> https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis/data
 
 ## Data Overview
 The dataset includes:
