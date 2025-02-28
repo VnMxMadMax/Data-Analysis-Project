@@ -9,7 +9,17 @@ This project analyzes e-commerce sales data using SQL, Python, and Power BI. The
 - **Power BI** – Interactive dashboard
 
 ## 🔍 Data Source
-The dataset consists of e-commerce transaction records, including order details, customer information, product categories, and sales data.
+The dataset i used for the analysis is E-commerce Sales Analysis DatsSet here is the direct link of the data set -> https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis/data
+
+## Data Overview
+The dataset includes:
+- **`product_id`**: Unique identifier for each product
+- **`product_name`**: Name of the product
+- **`category`**: Product category
+- **`price`**: Price of the product
+- **`review_score`**: Average review score (1 to 5)
+- **`review_count`**: Total number of reviews
+- **`sales_month_1`** to **`sales_month_12`**: Sales data for each month of the year
 
 ## 🚀 Steps & Workflow
 1. **Data Extraction & Cleaning**: Retrieved sales data using SQL queries.
@@ -21,10 +31,10 @@ The dataset consists of e-commerce transaction records, including order details,
 - **Total Sales**: 6M+ sales with a total revenue of 1.49bn.
 - **Top-Selling Categories**: Books, Toys, Electronics.
 - **Seasonal Trends**: Higher sales in summer compared to winter.
-- **Customer Behavior**: Most purchases come from high-value products.
 
 ## 📸 Power BI Dashboard
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](![E-Commerce Sales Analysis PowerBi Dashboard](https://github.com/user-attachments/assets/2cf42b22-af99-49f0-9f54-e179af39765b)
+)
 
 ## 🔗 How to Use
 1. Clone the repository:
